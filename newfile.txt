@@ -1,0 +1,1 @@
+This is a new file created using the with statement, which automatically closes the file after the block of code is executed.

@@ -1,0 +1,1 @@
+# When __init__.py file is there python considers it as a package
